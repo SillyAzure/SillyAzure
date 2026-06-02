@@ -1,16 +1,24 @@
-<p style="text-align:center; font-size:2em; padding-bottom:0; margin-bottom:0">Heya! I'm Azure :3</p>
+<h1 align="center">
+  <strong>Heya! I'm Azure :3</strong>
+</h1>
+<p align="center">
+  <sub>Just being silly!</sub> <!-- trying to at least... -->
+</p>
 
-<p style="text-align:center; font-size:.75em; padding-top:0; margin-top:0">Just being silly!</p> <!-- trying to at least... -->
+---
 
-----
+<div align="center">
 
-<div style="text-align:center;">
-    <p style="font-weight:700;">Software I use! ^-^</b></p>
-    <img src="./assets/kit/Row1_Icons.png" style="height:25vh">
-    <p style="font-weight:700;">The boring stuff <span style="color:;">(programming languages)</span></p>
-    <img src="./assets/kit/Row2_Icons.png" style="height:25vh">
+### Software I use! ^-^
+
+<img src="./assets/kit/Row1_Icons.png" alt="Software I use" width="400">
+
+### The boring stuff *(programming languages)*
+
+<img src="./assets/kit/Row2_Icons.png" alt="Programming languages" width="500">
+
 </div>
 
-----
+---
 
 <!-- I shall update this with more stuff :P -->
